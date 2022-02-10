@@ -4,7 +4,6 @@
 You can call me Jess. I'm a Javascript developer, I worked last year focused on frontend, using React.js <br>
 I'm currently improving my technical skills, learning Typescript and Next.js <br>
 I've also worked with backend development. I have already developed projects in Node.js and Java 8 <br>
-You will also find some R stats repositories, which I just studied in the past.
 <p/>
 
 ### You can find out more about my work and my interests:
@@ -25,5 +24,5 @@ By clicking on one of them, you'll have a page with photos and descriptions of h
 ### 📈 my github stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Jeefelix&show_icons=true&theme=gotham" alt="jeefelix" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeefelix&layout=compact&langs_count=7&theme=gotham"/>
+<img height="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeefelix&layout=compact&langs_count=7&theme=gotham"/>
 <div/>
