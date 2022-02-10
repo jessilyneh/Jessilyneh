@@ -1,8 +1,10 @@
 ### Thank you for your visit!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div>
-  You can call me <b>Jess</b>. I'm a <b>Javascript developer</b>, I worked last year focused on <b>frontend, using React.js</b> <br>
+  You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 4 years<b>.<br>
+  I worked last year focused on <b>frontend, using Javascript and React.js</b> <br>
   I'm currently improving my technical skills, <b>learning Typescript and Next.js</b> <br>
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
+  In my spare time, I like to play with rubik's cubes.<br>
 <div/>
 
 ### You can find out more about my work and my interests:
