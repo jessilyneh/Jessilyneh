@@ -1,5 +1,4 @@
 ### Thank you for your visit!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
 <div>
   You can call me <b>Jess</b>. I'm a <b>Javascript developer</b>, I worked last year focused on <b>frontend, using React.js</b> <br>
   I'm currently improving my technical skills, <b>learning Typescript and Next.js</b> <br>
@@ -27,7 +26,7 @@ You'll get a map view with pins of all the places you've been to run.<br>
 By clicking on one of them, you'll have a page with photos and descriptions of how your experience was.
 <br />
   
-### 📈 my github stats
+### my github stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Jeefelix&show_icons=true&theme=gotham" alt="jeefelix" />
 <img height="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeefelix&layout=compact&langs_count=5&theme=gotham"/>
