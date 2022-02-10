@@ -23,5 +23,7 @@ By clicking on one of them, you'll have a page with photos and descriptions of h
 <br />
   
 ### 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeefelix&show_icons=true&theme=gotham" alt="jeefelix" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Jeefelix&show_icons=true&theme=gotham" alt="jeefelix" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeefelix&layout=compact&langs_count=7&theme=gotham"/>
+<div/>
