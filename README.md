@@ -8,20 +8,19 @@
 <div/>
 
 ### You can find out more about my work and my interests:
-<div>
-  <a href="https://twitter.com/jesslyne_kujo">
-  <img align="left" alt="Jéssica Félix's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
+
+<a href="https://twitter.com/jesslyne_kujo">
+ <img alt="Jéssica Félix's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
 <a href="https://www.linkedin.com/in/jessica-cris-felix/">
-  <img align="left" alt="Jéssica Félix's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img alt="Jéssica Félix's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a href="https://dev.to/dev_jessi">
-  <img align="left" alt="Jéssica Félix's Dev.to" width="100em" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  <img alt="Jéssica Félix's Dev.to" width="100em" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 <a href="https://medium.com/@jessi-cflx">
- <img align="left" alt="Jéssica Félix's Medium" width="100em" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+ <img alt="Jéssica Félix's Medium" width="100em" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-</div>
 <br/>
 <br/>
 
