@@ -8,7 +8,8 @@
 <div/>
 
 ### You can find out more about my work and my interests:
-<a href="https://twitter.com/jesslyne_kujo">
+<div>
+  <a href="https://twitter.com/jesslyne_kujo">
   <img align="left" alt="Jéssica Félix's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
 <a href="https://www.linkedin.com/in/jessica-cris-felix/">
@@ -20,9 +21,11 @@
 <a href="https://medium.com/@jessi-cflx">
  <img align="left" alt="Jéssica Félix's Medium" width="100em" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<br />
+</div>
+<br/>
+<br/>
 
-### Project that I'm working on:
+## Project that I'm working on:
 
 [Where2Run](https://github.com/Jeefelix/where2run) is guide to find places to run and tell your histories about.<br>
 You'll get a map view with pins of all the places you've been to run.<br>
@@ -38,7 +41,7 @@ By clicking on one of them, you'll have a page with photos and descriptions of h
 </div>
 <br />
   
-### My github stats
+## My github stats
 <div>
 <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=Jeefelix&show_icons=true&theme=gotham" alt="jeefelix" />
 <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeefelix&layout=compact&langs_count=5&theme=gotham"/>
