@@ -22,7 +22,6 @@
  <img alt="Jéssica Félix's Medium" width="100em" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <br/>
-<br/>
 
 ## Project that I'm working on:
 
