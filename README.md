@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Scooto (part time)
+- 🌱 I’m currently learning Typescript, Next.js and Design Systens
+- 📫 How to reach me: @jesslyne_kujo
+- 😄 Pronouns: she/her
