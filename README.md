@@ -4,7 +4,7 @@
   I worked last year focused on <b>frontend, using Javascript and React.js</b> <br>
   I'm currently improving my technical skills, <b>learning Typescript and Next.js</b> <br>
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
-  In my spare time, I like to play with rubik's cubes.<br>
+  In my spare time, I like to solve rubik's cubes.<br>
 <div/>
 
 ### You can find out more about my work and my interests:
