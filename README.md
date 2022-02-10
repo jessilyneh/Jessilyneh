@@ -23,9 +23,19 @@
 <br />
 
 ### Project that I'm working on:
+
 [Where2Run](https://github.com/Jeefelix/where2run) is guide to find places to run and tell your histories about.<br>
 You'll get a map view with pins of all the places you've been to run.<br>
-By clicking on one of them, you'll have a page with photos and descriptions of how your experience was.
+By clicking on one of them, you'll have a page with photos and descriptions of how your experience was.<br />
+<div>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="white jester shoe icon"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="atom icon with the phrase react"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=" JS and javascript"/>
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="es lint"/>
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
+</div>
 <br />
   
 ### My github stats
