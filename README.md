@@ -1,6 +1,6 @@
 ## Thanks for your visit! <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif" alt="2D cat say hi" width="75rem">
 <div>
-  You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 4 years</b>.<br>
+  You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 3 years</b>.<br>
   I worked last year focused on <b>frontend, using Javascript and React.js</b> <br>
   I'm currently improving my technical skills, <b>learning Typescript and Next.js</b> <br>
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
