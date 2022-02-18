@@ -31,7 +31,7 @@ You'll get a map view with pins of all the places you've been to run.<br>
 By clicking on one of this places, you'll have a page with photos and descriptions of how your experience was.<br />
                                                                                                                                                 
 ### Project status:
-![60%](https://progress-bar.dev/60)
+![70%](https://progress-bar.dev/70)
 
 ### technologies:
 <div>
