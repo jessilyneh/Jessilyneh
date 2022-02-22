@@ -29,9 +29,11 @@
 It's guide to find places to run and tell your histories about.<br>
 You'll get a map view with pins of all the places you've been to run.<br>
 By clicking on one of this places, you'll have a page with photos and descriptions of how your experience was.<br />
+  
+<b> site: where2run.vercel.app </b>
                                                                                                                                                 
 ### Project status:
-![90%](https://progress-bar.dev/90)
+Done!
 
 ### technologies:
 <div>
