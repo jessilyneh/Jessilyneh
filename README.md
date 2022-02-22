@@ -2,7 +2,7 @@
 <div>
   You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 3 years</b>.<br>
   I worked last year focused on <b>frontend, using Javascript and React.js</b> <br>
-  I'm currently improving my technical skills, <b>learning Typescript and Next.js</b> <br>
+  I'm currently improving my technical skills, <b>learning Typescript, Next.js and tests</b> <br>
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
   In my spare time, I like to solve rubik's cubes.<br>
 <div/>
