@@ -35,7 +35,7 @@ By clicking on one of this places, you'll have a page with photos and descriptio
 ### Project status:
 Done!
 
-### technologies:
+### Stack:
 <div>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS and typescript"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="atom icon with the phrase react"/>
