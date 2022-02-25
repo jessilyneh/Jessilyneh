@@ -23,7 +23,7 @@
 </a>
 <br/>
 
-## Project that I'm working on:
+## Projects:
 
 ### [Where2Run](https://github.com/Jeefelix/where2run) 
 It's guide to find places to run and tell your histories about.<br>
