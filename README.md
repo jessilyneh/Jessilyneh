@@ -11,7 +11,7 @@
 
 ### You can find out more about my work and my interests:
 
-<a href="https://twitter.com/jesslyneh>
+<a href="https://twitter.com/jesslyneh">
  <img alt="Jéssica Félix's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
 <a href="https://www.linkedin.com/in/jessilyneh/">
@@ -27,7 +27,7 @@
 
 ## Projects:
 
-### [Where2Run](https://github.com/Jeefelix/where2run) 
+### [Where2Run](https://github.com/Jessilyneh/where2run) 
 It's guide to find places to run and tell your histories about.<br>
 You'll get a map view with pins of all the places you've been to run.<br>
 By clicking on one of this places, you'll have a page with photos and descriptions of how your experience was.<br />
