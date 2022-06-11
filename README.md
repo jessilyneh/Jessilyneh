@@ -1,4 +1,4 @@
-## Thanks for your visit! <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif" alt="2D cat say hi" width="7rem">
+## Thanks for your visit!
 <div>
   You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 4 years</b>.<br>
   I currently work as a frontend developer at AMARO, focused on <b> Typescript, Next.js and React.js</b></br>
