@@ -11,10 +11,10 @@
 
 ### You can find out more about my work and my interests:
 
-<a href="https://twitter.com/jesslyne_kujo">
+<a href="https://twitter.com/jesslyneh>
  <img alt="Jéssica Félix's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
-<a href="https://www.linkedin.com/in/jessica-cris-felix/">
+<a href="https://www.linkedin.com/in/jessilyneh/">
   <img alt="Jéssica Félix's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a href="https://dev.to/dev_jessi">
