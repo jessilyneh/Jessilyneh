@@ -1,8 +1,10 @@
-## Thanks for your visit! <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif" alt="2D cat say hi" width="75rem">
+## Thanks for your visit! <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif" alt="2D cat say hi" width="7rem">
 <div>
-  You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 3 years</b>.<br>
-  I worked last year focused on <b>frontend, using Javascript and React.js</b> <br>
-  I'm currently improving my technical skills, <b>learning Typescript, Next.js and tests</b> <br>
+  You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 4 years</b>.<br>
+  I currently work as a frontend developer at AMARO, focused on <b> Typescript, Next.js and React.js</b></br>
+  I am a volunteer frontend developer at Lacrei, a social and legal inclusion platform for the LGBTQQICAPF2K community</br>
+  I'm also a teacher, I teach Javascript fundamentals at Sirius Education</br>
+  I'm currently improving my technical skills, <b>studing Typescript, Next.js and tests</b> <br>
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
   In my spare time, I like to solve rubik's cubes.<br>
 <div/>
