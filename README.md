@@ -1,7 +1,7 @@
 ## Thanks for your visit!
 <div>
   You can call me <b>Jess</b>. I'm 30 years old, I've been working as a<b> software developer for 4 years</b>.<br>
-  I currently work as a frontend developer at [AMARO](https://amaro.com/br/pt/), focused on <b> Typescript, Next.js and React.js</b></br>
+  I currently work as a frontend developer at [Where2Run](https://github.com/Jeefelix/where2run) [AMARO](https://amaro.com/br/pt/), focused on <b> Typescript, Next.js and React.js</b></br>
   I am a volunteer frontend developer at [Lacrei](https://www.portallacrei.com.br/), a social and legal inclusion platform for the LGBTQIA+ community</br>
   I'm also a teacher, I teach Javascript fundamentals at [Sirius Education](https://www.sirius.education/)</br>
   I'm currently improving my technical skills, <b>studing Typescript, Next.js and tests</b> <br>
