@@ -11,7 +11,7 @@
 
 ### You can find out more about my work and my interests:
 
-<a href="https://twitter.com/jesslyneh">
+<a href="https://twitter.com/jessilyneh">
  <img alt="Jéssica Félix's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
 <a href="https://www.linkedin.com/in/jessilyneh/">
