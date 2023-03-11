@@ -1,9 +1,9 @@
 ## Thanks for your visit!
-  You can call me <b>Jess</b>. I'm 31 years old, I've been working as a<b> software developer for 4 years</b>.<br>
-  I currently work as a frontend developer focused on Typescript, Next.js, and React.js </br>
-  I am a volunteer frontend tech lead at [Lacrei](https://www.portallacrei.com.br), a social and legal inclusion platform for the LGBTQIA+ community</br>
+  You can call me <b>Jess</b>. I'm 31 years old, I've been working as a<b> software developer for 5 years</b>.<br>
+  I currently work as a frontend developer focused on software architecture, at [F1rst (Santander)](https://www.linkedin.com/company/f1rsttecnologia/mycompany/) </br>
+  Last year, I was a volunteer frontend tech lead at [Lacrei](https://www.portallacrei.com.br), a social and legal inclusion platform for the LGBTQIA+ community</br>
   I'm also a teacher, I teach Javascript fundamentals at [Sirius Education](https://www.sirius.education) </br>
-  I'm currently improving my technical skills, <b>studyng Typescript, Next.js, and tests</b> <br>
+  I'm currently improving my technical skills, <b>studyng Typescript,Angular, and tests</b> <br>
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
   In my spare time, I like to solve rubik's cubes.<br>
 
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/jessilyneh/">
   <img alt="Jéssica Félix's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="https://dev.to/dev_jessi">
+<a href="https://dev.to/jessilyneh">
   <img alt="Jéssica Félix's Dev.to" width="100em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 <a href="https://medium.com/@jessilyneh">
