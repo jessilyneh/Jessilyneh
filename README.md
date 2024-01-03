@@ -1,10 +1,15 @@
 ## Thanks for your visit!
-  You can call me <b>Jess</b>. I'm 31 years old, I've been working as a<b> software developer for 5 years</b>.<br>
-  I currently work as a frontend developer focused on software architecture, at [F1rst (Santander)](https://www.linkedin.com/company/f1rsttecnologia/mycompany/) </br>
+  You can call me <b>Jess</b>. I'm 32 years old, I've been working as a<b> software developer for 6 years</b>.<br>
   
-  Last year, I was a volunteer frontend tech lead at [Lacrei](https://www.portallacrei.com.br), a social and legal inclusion platform for the LGBTQIA+ community</br>
-  I'm also a teacher, I taught javascript fundamentals at [Sirius Education](https://www.sirius.education) </br>
-  I'm currently improving my technical skills, <b>studyng Typescript,Angular, and tests</b> <br>
+  I'm a senior software engineer and currently Tech Lead, working on a project for the most valuable bank in Brazil in terms of market value.
+
+Previously, as IT Architect mid-senior at a big spanish bank, I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
+
+Additionally, I'm volunteer as a Tech Lead at Lacrei Saúde, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
+I am also a software developer and teacher with experience in backend and frontend, and a passion for creating impactful and inclusive IT solutions.
+
+I teach Javascript fundamentals at Linux Tips and Sirius Education, and participate in various podcasts, interviews, and events related to software development and social causes.
+
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
   In my spare time, I like to solve rubik's cubes.<br>
 
