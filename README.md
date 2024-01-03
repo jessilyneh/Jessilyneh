@@ -1,11 +1,11 @@
 ## Thanks for your visit!
   You can call me <b>Jess</b>. I'm 32 years old, I've been working as a<b> software developer for 6 years</b>.<br>
   
-  I'm a senior software engineer and currently Tech Lead, working on a project for the most valuable bank in Brazil in terms of market value.
+  I'm a <b>senior software engineer</b> and currently Tech Lead, working on a project for the most valuable bank in Brazil in terms of market value.
 
-Previously, as IT Architect mid-senior at a big spanish bank, I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
+Previously, as <b>IT Architect mid-senior</b> at a big spanish bank, I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
 
-Additionally, I'm volunteer as a Tech Lead at Lacrei Saúde, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
+Additionally, I'm <b>volunteer as a Tech Lead>/b> at Lacrei Saúde, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
 I am also a software developer and teacher with experience in backend and frontend, and a passion for creating impactful and inclusive IT solutions.
 
 I teach Javascript fundamentals at Linux Tips and Sirius Education, and participate in various podcasts, interviews, and events related to software development and social causes.
