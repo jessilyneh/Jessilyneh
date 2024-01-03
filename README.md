@@ -5,7 +5,7 @@
 
 Previously, as <b>IT Architect mid-senior</b> at a big spanish bank, I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
 
-Additionally, I'm <b>volunteer as a Tech Lead>/b> at Lacrei Saúde, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
+Additionally, I'm <b>volunteer as a Tech Lead</b> at Lacrei Saúde, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
 I am also a software developer and teacher with experience in backend and frontend, and a passion for creating impactful and inclusive IT solutions.
 
 I teach Javascript fundamentals at Linux Tips and Sirius Education, and participate in various podcasts, interviews, and events related to software development and social causes.
