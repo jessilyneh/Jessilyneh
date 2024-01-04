@@ -1,5 +1,5 @@
 ## Thanks for your visit!
-  You can call me <b>Jess</b>. I'm 32 years old, I've been working as a<b> software developer for 6 years</b>.<br>
+  You can call me <b>Jess</b>. I've been working as a<b> software developer for 6 years</b>.<br>
   
   I'm a <b>senior software engineer</b> and currently Tech Lead, working on a project for the most valuable bank in Brazil in terms of market value.
 
