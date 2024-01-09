@@ -10,7 +10,7 @@ I am also a software developer and teacher with experience in backend and fronte
 
 I teach Javascript fundamentals at Linux Tips and Sirius Education, and participate in various podcasts, interviews, and events related to software development and social causes.
 
-  I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8</b> <br>
+  I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8 and Java 11</b> <br>
   In my spare time, I like to solve rubik's cubes.<br>
 
 ### You can find out more about my work and my interests:
