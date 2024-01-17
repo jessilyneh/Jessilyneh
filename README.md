@@ -1,7 +1,7 @@
 ## Thanks for your visit!
   You can call me <b>Jess</b>. I've been working as a<b> software developer for 6 years</b>.<br>
   
-  I'm a <b>senior software engineer</b> and currently Tech Lead, working on a project for the most valuable bank in Brazil in terms of market value.
+  I'm a <b>senior software engineer</b> and currently <br>Tech Lead</br>, working on a project for the most valuable bank in Brazil in terms of market value.
 
 Previously, as <b>IT Architect mid-senior</b> at a big spanish bank. I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
 
