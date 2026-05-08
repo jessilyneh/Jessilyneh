@@ -1,5 +1,5 @@
 ## Thanks for your visit!
-  You can call me <b>Jess</b>. I've been working as a<b> software developer for 9 years</b>.<br>
+  You can call me <b>Jess</b>. I've been working as a<b> software developer for 6 years and 2 years as software architect</b>.<br>
   
   I’m currently an <b>IT Architect</b> working on some good projects for the most valuable bank in Brazil in terms of market value. I help design and evolve the technical architecture, support engineering teams, and drive good practices across the codebase.
 
