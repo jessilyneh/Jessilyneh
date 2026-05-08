@@ -1,7 +1,7 @@
 ## Thanks for your visit!
   You can call me <b>Jess</b>. I've been working as a<b> software developer for 9 years</b>.<br>
   
-  I’m currently an <b>IT Architect</b>working on a project for the most valuable bank in Brazil in terms of market value. I help design and evolve the technical architecture, support engineering teams, and drive good practices across the codebase.
+  I’m currently an <b>IT Architect</b> working on a project for the most valuable bank in Brazil in terms of market value. I help design and evolve the technical architecture, support engineering teams, and drive good practices across the codebase.
 
 Previously, as <b>IT Architect mid-senior</b> at a big spanish bank. I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
 
