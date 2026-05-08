@@ -1,17 +1,16 @@
 ## Thanks for your visit!
-  You can call me <b>Jess</b>. I've been working as a<b> software developer for 8 years</b>.<br>
+  You can call me <b>Jess</b>. I've been working as a<b> software developer for 9 years</b>.<br>
   
-  I'm a <b>senior software engineer</b> and currently <b>Tech Lead</b>, working on a project for the most valuable bank in Brazil in terms of market value.
+  I’m currently an <b>IT Architect</b>working on a project for the most valuable bank in Brazil in terms of market value. I help design and evolve the technical architecture, support engineering teams, and drive good practices across the codebase.
 
 Previously, as <b>IT Architect mid-senior</b> at a big spanish bank. I contributed to the development and integration of IT solutions, using state-of-the-art technologies and best practices. I also defined and support the technical architecture, creates tech content, and empowered the frontend community.
 
-Additionally, I'm <b>volunteer as a Tech Lead</b> at Lacrei Saúde, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
-I am also a software developer and teacher with experience in backend and frontend, and a passion for creating impactful and inclusive IT solutions.
+Additionally, I was <b>volunteer as a Tech Lead</b> at Lacrei Saúde for 2 years, a platform that promotes social and legal inclusion for the LGBTQIA+ community.
 
 I <b>teach Javascript fundamentals</b> at Linux Tips and Sirius Education, and participate in various podcasts, interviews, and events related to software development and social causes.
 
   I've also worked with <b>backend development</b>. I have already developed projects in <b>Node.js and Java 8 and Java 11</b> <br>
-  In my spare time, I like to solve rubik's cubes.<br>
+  In my spare time, I enjoy bouldering and solving Rubik’s cubes.<br>
 
 ### You can find out more about my work and my interests:
 
